@@ -43,8 +43,6 @@ A software-based electric vehicle charging optimisation prototype exploring smar
 ### 2. M.M FITNESS
 A personalised fitness application project concept featuring workout guidance, nutrition planning, hydration tracking and user profiles.
 
-[View M.M FITNESS](https://ameenanuha16.github.io/M.M-Fitness/)
-
 ### 3. JobTrack
 A job and internship tracking platform concept designed to help students organise opportunities and explore career options.
 
