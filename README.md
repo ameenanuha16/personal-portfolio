@@ -1,39 +1,57 @@
-# 🌸 Personal Portfolio – Ameena Nuha
+🌸 Ameena Nuha | Personal Portfolio
 
 Welcome to my personal portfolio!
 
-I'm Ameena Nuha, a Computer Science Engineering student passionate about technology, creativity and innovation.
+I’m a Computer Science Engineering student interested in technology, innovation, analytical thinking and creative problem-solving.
 
-## ✨ About My Portfolio
+✨ About Me
 
-A personal portfolio website showcasing my skills, projects, interests, achievements and educational journey.
+A personal portfolio showcasing my technical skills, projects, interests, achievements and educational journey.
 
-## 🛠️ Technologies Used
+🛠️ Skills & Technologies
 
-- HTML5
-- CSS3
-- JavaScript
-- GitHub Pages
+* Java
+* C Programming
+* HTML
+* CSS
+* JavaScript
+* GitHub
+* Communication
+* Teamwork
+* Problem Solving
+* Analytical Thinking
 
-## 💻 My Projects
+💻 My Projects
 
-- EV SmartCharge AI
-- M.M FITNESS
-- JobTrack
+Main Projects
 
-## 🎯 Interests
+1. EV SmartCharge AI – AI-powered EV charging optimisation prototype.
+2. M.M FITNESS – Personalised fitness and workout management web application.
 
-- Technology and Innovation
-- Web Development
-- Data Analysis
-- Problem Solving
-- Learning New Skills
+Other Projects & Concepts
 
-## 🌐 Connect With Me
+3. JobTrack – Job and internship tracking platform.
+4. GlowCare AI – AI-based skincare assistance concept.
+5. LandScope – Land analysis and mapping concept.
 
-- GitHub: https://github.com/ameenanuha16
-- LinkedIn: https://www.linkedin.com/in/ameena-nuha-1b3a54358/
+🎓 Education
 
----
+Computer Science Engineering
+Undergraduate Student – 5th Semester
 
-Made with ♡ by Ameena Nuha
+🏆 Achievements
+
+* Gold Medal – Science
+* Silver Medal – General Knowledge
+* Hackathon participation – PRERANA 2026
+
+🌐 Connect With Me
+
+* GitHub: ameenanuha16
+* LinkedIn: Ameena Nuha
+
+⸻
+
+Dream. Build. Grow. ♡
+
+Made with love by Ameena Nuha.
