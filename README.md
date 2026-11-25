@@ -1,57 +1,97 @@
-🌸 Ameena Nuha | Personal Portfolio
+# ✨ Ameena Nuha | Personal Portfolio
 
-Welcome to my personal portfolio!
+Welcome to my personal portfolio! This repository contains my portfolio website, showcasing my skills, projects, achievements, certifications and learning journey as a Computer Science Engineering student.
 
-I’m a Computer Science Engineering student interested in technology, innovation, analytical thinking and creative problem-solving.
+## 👩‍💻 About Me
 
-✨ About Me
+I'm Ameena Nuha, a Computer Science Engineering student currently pursuing my 5th semester.
 
-A personal portfolio showcasing my technical skills, projects, interests, achievements and educational journey.
+I'm passionate about technology, creativity, problem-solving and exploring how digital solutions can improve everyday experiences.
 
-🛠️ Skills & Technologies
+**Career Interests:**
+- Business Analysis
+- Product Management
+- Data Analysis
+- Healthcare IT
+- Web Development
 
-* Java
-* C Programming
-* HTML
-* CSS
-* JavaScript
-* GitHub
-* Communication
-* Teamwork
-* Problem Solving
-* Analytical Thinking
+## 🛠️ Skills
 
-💻 My Projects
+**Technical Skills**
+- Java
+- C Programming
+- HTML
+- CSS
+- GitHub
 
-Main Projects
+**Professional Skills**
+- Communication
+- Teamwork
+- Problem-solving
+- Documentation
+- Analytical Thinking
 
-1. EV SmartCharge AI – AI-powered EV charging optimisation prototype.
-2. M.M FITNESS – Personalised fitness and workout management web application.
+**Productivity Tools**
+- MS Word
+- PowerPoint
 
-Other Projects & Concepts
+## 💻 My Projects
 
-3. JobTrack – Job and internship tracking platform.
-4. GlowCare AI – AI-based skincare assistance concept.
-5. LandScope – Land analysis and mapping concept.
+### 1. EV SmartCharge AI
+A software-based electric vehicle charging optimisation prototype exploring smarter charging decisions and an interactive user experience.
 
-🎓 Education
+### 2. M.M FITNESS
+A personalised fitness application project concept featuring workout guidance, nutrition planning, hydration tracking and user profiles.
 
-Computer Science Engineering
-Undergraduate Student – 5th Semester
+[View M.M FITNESS](https://ameenanuha16.github.io/M.M-Fitness/)
 
-🏆 Achievements
+### 3. JobTrack
+A job and internship tracking platform concept designed to help students organise opportunities and explore career options.
 
-* Gold Medal – Science
-* Silver Medal – General Knowledge
-* Hackathon participation – PRERANA 2026
+### 4. GlowCare AI
+A skincare assistance concept focused on skincare routines and personalised skincare information.
 
-🌐 Connect With Me
+### 5. LandScope
+A map-based land analysis concept exploring location visualisation and interactive map insights using Leaflet.
 
-* GitHub: ameenanuha16
-* LinkedIn: Ameena Nuha
+## 🏆 Achievements & Awards
 
-⸻
+- NSTSE 2022–23 – Karnataka State Rank 30
+- Smart Kid GK Olympiad – 1st Place in Class
+- Gold Medal in Science
+- Silver Medal in General Knowledge
 
-Dream. Build. Grow. ♡
+## 📜 Technical Events & Certifications
 
-Made with love by Ameena Nuha.
+- DevFest Mysuru – Google for Developers (2025)
+- IEEE SB IGNITE – AI in Space Management (2025)
+- Bharat XR × Snap AR (2025)
+- TechSphere: HackQuest (2025)
+- Swinburne Quantum-Era Masterclass (2026)
+
+## 🌟 Leadership & Innovation
+
+- Tech Nova 2.0 – Event Coordinator (November 2026)
+- PRERANA 2026 – State-Level Innovation Hackathon, EV SmartCharge AI
+
+## 🎓 Education
+
+**Bachelor of Engineering – Computer Science Engineering**
+
+- Currently pursuing 5th Semester
+- Visvesvaraya Technological University (VTU)
+
+## 🌐 Connect With Me
+
+- **GitHub:** [ameenanuha16](https://github.com/ameenanuha16)
+- **LinkedIn:** [Ameena Nuha](https://www.linkedin.com/in/ameena-nuha-1b3a54358/)
+
+## 🌷 Portfolio Website
+
+Explore my personal portfolio to learn more about my work, skills and achievements.
+
+[Visit My Portfolio](https://ameenanuha16.github.io/personal-portfolio/)
+
+---
+
+*Thank you for visiting my portfolio! I'm always learning, growing and exploring new opportunities.*
